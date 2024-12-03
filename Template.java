@@ -1,0 +1,6 @@
+/**
+ * Challenge:
+ */
+
+public class Template {
+}
