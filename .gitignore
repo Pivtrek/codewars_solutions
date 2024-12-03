@@ -1,0 +1,19 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/Editor configurations
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS files
+*.log
+*.tmp
+
+# Ignore compiled files
+*.class
+
+# Ignore Maven and Gradle directories
+target/
+build/
