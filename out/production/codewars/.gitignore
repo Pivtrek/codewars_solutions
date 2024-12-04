@@ -5,7 +5,6 @@ Thumbs.db
 # Ignore IDE/Editor configurations
 .vscode/
 .idea/
-out/
 *.iml
 
 # Ignore OS files
