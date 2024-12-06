@@ -38,7 +38,7 @@ public class Sum_of_digits {
     //as digital root so we can use that and create really simple function
     public static int digital_root2(int n){
         return (n != 0 && n % 9 == 0) ? 9 : n % 9;
-        //if number is multiple of 9 then we return 9,
+        //if number is multiple of 9 and not 0 then we return 9,
         //else we return remainder of division by 9
     }
 }
