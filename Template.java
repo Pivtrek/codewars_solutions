@@ -1,9 +1,10 @@
 /**
  * Challenge:
  *
- * Example:
+ * Examples:
  *
  */
 
 public class Template {
+
 }
